@@ -1,10 +1,6 @@
-
-You should also create a `LICENSE.md` file in your repository with the text of the MIT License or any other license you choose. If you're using the MIT License, the content of `LICENSE.md` might look like this:
-
-```markdown
 MIT License
 
-Copyright (c) [year] [your name]
+Copyright (c) [2023] [Mayida]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
